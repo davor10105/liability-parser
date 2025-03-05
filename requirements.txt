@@ -1,4 +1,4 @@
 streamlit
-marker
+marker-pdf
 langchain
 langchain-openai
