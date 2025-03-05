@@ -1,0 +1,4 @@
+streamlit
+marker
+langchain
+langchain-openai
